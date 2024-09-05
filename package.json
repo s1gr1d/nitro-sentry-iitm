@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nitro build",
+    "dev": "nitro dev",
+    "prepare": "nitro prepare",
+    "preview": "node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "nitropack": "latest"
+  },
+  "dependencies": {
+    "@sentry/node": "^8.28.0",
+    "import-in-the-middle": "^1.11.0"
+  },
+  "resolutions": {
+    "@vercel/nft": "^0.27.4"
+  }
+}
