@@ -1,3 +1,3 @@
-# Nitro starter
+# Nitro Reproduction Example with Sentry
 
-Look at the [nitro quick start](https://nitro.unjs.io/guide#quick-start) to learn more how to get started.
+linked issue: https://github.com/unjs/nitro/issues/2703
